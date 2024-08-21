@@ -1,2 +1,2 @@
 # odin-recipes
-An HTML project I'm doing as part of TOP course. It includes a simple website with a few recipes, made with very basic HTML. 
+A simple HTML project with recipes from the odin project's foundation course.
